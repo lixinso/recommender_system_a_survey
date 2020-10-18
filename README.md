@@ -14,3 +14,5 @@ This repo will be public
 - https://github.com/smwitkowski/Amazon-Recommender-System
 
 - Recommendation Systems: A Review https://towardsdatascience.com/recommendation-systems-a-review-d4592b6caf4b
+
+- [Recommender system using Bayesian personalized ranking](https://towardsdatascience.com/recommender-system-using-bayesian-personalized-ranking-d30e98bba0b9)
