@@ -22,3 +22,8 @@ This repo will be public
 - [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
 
 - https://en.wikipedia.org/wiki/Recommender_system#Mobile_recommender_systems
+
+- Book: 推荐系统实践 项亮
+
+- Book: Recommender systems:An introduction, Dietmar Jannach / Markus Zanker / Alexander Felfernig / Gerhard Friedrich, 2013
+
