@@ -20,3 +20,5 @@ This repo will be public
 - [Introduction to Recommender Systems in 2019](https://tryolabs.com/blog/introduction-to-recommender-systems/)
 
 - [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
+
+- https://en.wikipedia.org/wiki/Recommender_system#Mobile_recommender_systems
