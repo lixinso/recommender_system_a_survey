@@ -6,8 +6,11 @@ This repo will be public
 
 # References
 
+- http://ijcai13.org/files/tutorial_slides/td3.pdf
 
-- “System Architectures for Personalization and Recommendation” by Netflix Technology Blog https://link.medium.com/PaefDwO9bab
+- https://web.archive.org/web/20170406065247/http://tech.hulu.com/blog/2011/09/19/recommendation-system.html
+
+- "System Architectures for Personalization and Recommendation" by Netflix Technology Blog https://link.medium.com/PaefDwO9bab
 
 - https://github.com/mandeep147/Amazon-Product-Recommender-System
 
