@@ -8,7 +8,7 @@ This repo will be public
 
 - http://ijcai13.org/files/tutorial_slides/td3.pdf
 
-- https://web.archive.org/web/20170406065247/http://tech.hulu.com/blog/2011/09/19/recommendation-system.html
+- [Hulu](https://web.archive.org/web/20170406065247/http://tech.hulu.com/blog/2011/09/19/recommendation-system.html)
 
 - "System Architectures for Personalization and Recommendation" by Netflix Technology Blog https://link.medium.com/PaefDwO9bab
 
