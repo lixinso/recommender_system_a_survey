@@ -32,3 +32,5 @@ This repo will be public
 
 - [Robin Burke Recommender Systems: An Overview](https://www.researchgate.net/publication/220604600_Recommender_Systems_An_Overview)
 
+- https://github.com/microsoft/recommenders
+
