@@ -3,6 +3,21 @@
 This repo will be public
 
 
+# Cold Start Problem
+
+# CF
+
+# Item-Item
+
+# User-Item
+
+# User-User
+
+# LDA
+
+# Ranking
+
+
 
 # References
 
