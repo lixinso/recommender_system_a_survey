@@ -31,6 +31,9 @@ This repo will be public
     - Weights can be learned dynamically
     - Extreme case of dynamic weighting is switching
     
+    
+![](res/parallelized_hybridization_design_idea.PNG)
+    
 **Weighted**
 
 - But how to drive weights?
