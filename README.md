@@ -21,6 +21,10 @@ This repo will be public
 
 # Category
 
+# Trending
+
+
+
 # Hybrid Approach 
 
 ## Parallelized hybridization design
@@ -95,3 +99,7 @@ This repo will be public
 
 - https://towardsdatascience.com/mixed-recommender-system-mf-matrix-factorization-with-item-similarity-based-cf-collaborative-544ddcedb330
 
+
+- https://towardsdatascience.com/the-best-forecast-techniques-or-how-to-predict-from-time-series-data-967221811981
+
+- [Trend or No Trend: A Novel Nonparametric Method for Classifying Time Series](https://dspace.mit.edu/handle/1721.1/85399)
