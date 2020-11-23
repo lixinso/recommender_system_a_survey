@@ -48,7 +48,7 @@ This repo will be public
     
 - Minimize MAE
 
-![](parallelized_hybridization_design_weighted_MAE.PNG)
+![](res/parallelized_hybridization_design_weighted_MAE.PNG)
 
 
 
