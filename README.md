@@ -58,6 +58,9 @@ This repo will be public
 ![](res/parallelized_hybridization_design_weighted_MAE.PNG)
 
 
+# Other
+
+## ![ALS - Alternating Least Squares](https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/als_movielens.ipynb)
 
 
 
