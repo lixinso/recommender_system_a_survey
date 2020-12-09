@@ -21,6 +21,9 @@ Depends on if the model is learned from underlying data, there are 2 types,
 - Movie Recommendation
 i.e., Netflix
 
+- Music Recommendation
+i.e., Last.fm, Pandora Radio
+
 - Product Recommendation
 i.e., Amazon
 
@@ -122,6 +125,12 @@ The negative log-likelihood of the true labels given the prediction of a classif
 # Sparsity
 
 The number of items sold on majority e-commerce sites is extremely large. The most active users will only have rated a small subset of the overall database. Thus, even the most popular items have very few ratings. [[10]](https://en.wikipedia.org/wiki/Recommender_system#Mobile_recommender_systems)
+
+# Industry Practice
+
+## Last.fm
+
+## Pandora Radio
 
 # References
 
