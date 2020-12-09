@@ -53,10 +53,48 @@ i.e., LinkedIn
 
 ## Feedback System
 
-## Evaluation Metrics
-
-
 ## Hybrid Approach 
+
+
+# Evaluation Metrics
+
+## Rating Metrics
+
+- Root Mean Square Error (RMSE)
+Measure of average error in predicted ratings
+
+- R Square (R^2)
+Essentially how much of the total variation is explained by the model
+
+- Mean Absolute Error (MAE)
+
+
+- Explained Variance - 
+How much of the variance in the data is explained by the model
+
+## Ranking Metrics
+
+- Precision
+The proportion of recommended items that are relevant
+
+- Recall
+Measures the proportion of relevant items that are recommended
+
+- Normalized  Discounted Cumulative Gain (NDCG)
+Evaluates how well the predicted items for a user are ranked based on the relevance
+
+- Mean Average Precision (MAP)
+Average precision for each user normalized over all users
+
+## Classification Metrics
+
+- Area Under Curve (AUC) 
+Integral area under the receiver operating characteristic curve
+
+
+- Logistic Loss (Logloss)
+The negative log-likelihood of the true labels given the prediction of a classifier
+
 
 # Deep Learning Approach
 
@@ -111,3 +149,10 @@ i.e., LinkedIn
 - [22] https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/als_movielens.ipynb
 
 - [23] https://github.com/microsoft/recommenders/tree/master/examples/03_evaluate
+
+- [24] Asela Gunawardana and Guy Shani: A Survey of Accuracy Evaluation Metrics of Recommendation Tasks
+
+- [25] Dimitris Paraschakis et al, "Comparative Evaluation of Top-N Recommenders in e-Commerce: An Industrial Perspective", IEEE ICMLA, 2015, Miami, FL, USA.
+
+- [26] Yehuda Koren and Robert Bell, "Advances in Collaborative Filtering", Recommender Systems Handbook, Springer, 2015.
+Chris Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
