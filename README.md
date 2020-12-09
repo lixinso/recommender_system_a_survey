@@ -21,6 +21,11 @@ i.e., Google News, Toutiao
 - People Recommendation
 i.e., LinkedIn
 
+# System Architecture
+
+![](https://miro.medium.com/max/1400/1*qqTSkHNOzukJ5r-b54-wJQ.png)
+
+
 # Cold Start Problem
 
 # CF
