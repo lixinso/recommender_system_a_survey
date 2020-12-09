@@ -25,33 +25,34 @@ i.e., LinkedIn
 
 ![https://netflixtechblog.com/system-architectures-for-personalization-and-recommendation-e081aa94b5d8](https://miro.medium.com/max/1400/1*qqTSkHNOzukJ5r-b54-wJQ.png)
 
+# Algorithms
 
-# Cold Start Problem
+## Cold Start Problem
 
-# CF
+## CF
 
-# Item-Item
+## Item-Item
 
-# User-Item
+## User-Item
 
-# User-User
+## User-User
 
-# LDA
+## LDA
 
-# Ranking
+## Ranking
 
-# Tag 
+## Tag 
 
-# Category
+## Category
 
-# Trending
+## Trending
 
-# Feedback System
+## Feedback System
 
-# Evaluation Metrics
+## Evaluation Metrics
 
 
-# Hybrid Approach 
+## Hybrid Approach 
 
 # Deep Learning Approach
 
