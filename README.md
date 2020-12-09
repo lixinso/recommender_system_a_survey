@@ -29,7 +29,11 @@ i.e., LinkedIn
 
 ## Cold Start Problem
 
-## CF
+## Collaborative Filtering
+
+## Content-Based Filtering	
+
+## Hybrid
 
 ## Item-Item
 
