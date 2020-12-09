@@ -8,6 +8,14 @@ Xinsong Li, Dec 2020
 
 This survey provided a comprehensive summary about the recommender system state-of-art knowledge.
 
+Recommender Systems usually classified into 2 types by 
+- Content Based Filtering
+- Collabrative Filtering
+
+Depends on if the model is learned from underlying data, there are 2 types,
+- Model Based 
+- Memory Based
+
 # Use Cases
 
 - Movie Recommendation
