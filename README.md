@@ -109,3 +109,5 @@ i.e., LinkedIn
 - [21] [Trend or No Trend: A Novel Nonparametric Method for Classifying Time Series](https://dspace.mit.edu/handle/1721.1/85399)
 
 - [22] https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/als_movielens.ipynb
+
+- [23] https://github.com/microsoft/recommenders/tree/master/examples/03_evaluate
