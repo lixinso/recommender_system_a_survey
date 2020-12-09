@@ -23,7 +23,7 @@ i.e., LinkedIn
 
 # System Architecture
 
-![](https://miro.medium.com/max/1400/1*qqTSkHNOzukJ5r-b54-wJQ.png)
+![https://netflixtechblog.com/system-architectures-for-personalization-and-recommendation-e081aa94b5d8](https://miro.medium.com/max/1400/1*qqTSkHNOzukJ5r-b54-wJQ.png)
 
 
 # Cold Start Problem
