@@ -79,6 +79,8 @@ Collabrative Filtering approaches build a model from user's past behavior (items
 
 ## xTreme Deep Factorization Machines (xDeepFM)
 
+# Reinforcement Learning for Recommender Systems
+
 # Evaluation Metrics
 
 ## Rating Metrics
