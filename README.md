@@ -1,7 +1,8 @@
 # Recommender System - A Survey
+
 Xinsong Li, Dec 2020
 
-[This repo will be public]
+[Public Repo. Unfinished article]
 
 # Abstract
 
