@@ -32,11 +32,11 @@ This survey provided a comprehensive summary about the recommender system state-
 
 # Hybrid Approach 
 
-
+# Deep Learning Approach
 
 # Other
 
-## ![ALS - Alternating Least Squares](https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/als_movielens.ipynb)
+## [ALS - Alternating Least Squares](https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/als_movielens.ipynb)
 
 
 
