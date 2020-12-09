@@ -56,6 +56,11 @@ i.e., LinkedIn
 
 ## Hybrid Approach 
 
+## Deep Learning Approach
+
+## [ALS - Alternating Least Squares](https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/als_movielens.ipynb)
+
+## xTreme Deep Factorization Machines (xDeepFM)
 
 # Evaluation Metrics
 
@@ -97,11 +102,9 @@ Integral area under the receiver operating characteristic curve
 The negative log-likelihood of the true labels given the prediction of a classifier
 
 
-# Deep Learning Approach
+# Model Selection and Optimization
 
-# Other
 
-## [ALS - Alternating Least Squares](https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/als_movielens.ipynb)
 
 
 
