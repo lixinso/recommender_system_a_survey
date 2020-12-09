@@ -40,6 +40,8 @@ i.e., LinkedIn
 
 ## Collaborative Filtering
 
+Collabrative Filtering is best suited to problem with known data on users, but lack of data for items or lack of feature extraction for items of interest. [6]( Recommendation Systems: A Review https://towardsdatascience.com/recommendation-systems-a-review-d4592b6caf4b)
+
 ## Content-Based Filtering	
 
 ## Hybrid
