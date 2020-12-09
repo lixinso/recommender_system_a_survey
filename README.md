@@ -192,3 +192,5 @@ Chris Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
 [28] Davidson, James, et al. “The YouTube video recommendation system.” Proceedings of the fourth ACM conference on Recommender systems. 2010.
 
 [29] Adomavicius, Gediminas, and Alexander Tuzhilin. “Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions.” IEEE transactions on knowledge and data engineering 17.6 (2005): 734–749.
+
+[30] James Loy, [Deep Learning based Recommender Systems, A gentle introduction to modern movie recommenders](https://towardsdatascience.com/deep-learning-based-recommender-systems-3d120201db7e]
