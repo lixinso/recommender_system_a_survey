@@ -42,7 +42,11 @@ i.e., LinkedIn
 
 Collabrative Filtering is best suited to problem with known data on users, but lack of data for items or lack of feature extraction for items of interest.  [[6]](https://towardsdatascience.com/recommendation-systems-a-review-d4592b6caf4b)
 
+Collabrative Filtering approaches build a model from user's past behavior (items previously purchased or selectec/rated) as well as similar decision made by others. [[10]](https://en.wikipedia.org/wiki/Recommender_system#Mobile_recommender_systems)
+
 ## Content-Based Filtering	
+
+## Knowledge-Based System
 
 ## Hybrid
 
