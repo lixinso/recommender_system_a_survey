@@ -5,7 +5,7 @@ Xinsong Li, Dec 2020
 
 # Abstract
 
-
+This survey provided a comprehensive summary about the recommender system state-of-art knowledge.
 
 
 # Cold Start Problem
