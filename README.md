@@ -120,53 +120,59 @@ The negative log-likelihood of the true labels given the prediction of a classif
 
 # References
 
-- [1] http://ijcai13.org/files/tutorial_slides/td3.pdf
+[1] http://ijcai13.org/files/tutorial_slides/td3.pdf
 
-- [2] [Hulu](https://web.archive.org/web/20170406065247/http://tech.hulu.com/blog/2011/09/19/recommendation-system.html)
+[2] [Hulu](https://web.archive.org/web/20170406065247/http://tech.hulu.com/blog/2011/09/19/recommendation-system.html)
 
-- [3] Xavier Amatriain and Justin Basilico. [System Architectures for Personalization and Recommendation](https://link.medium.com/PaefDwO9bab) (by Netflix Technology Blog) 
+[3] Xavier Amatriain and Justin Basilico. [System Architectures for Personalization and Recommendation](https://link.medium.com/PaefDwO9bab) (by Netflix Technology Blog) 
 
-- [4] https://github.com/mandeep147/Amazon-Product-Recommender-System
+[4] https://github.com/mandeep147/Amazon-Product-Recommender-System
 
-- [5] https://github.com/smwitkowski/Amazon-Recommender-System
+[5] https://github.com/smwitkowski/Amazon-Recommender-System
 
-- [6] Recommendation Systems: A Review https://towardsdatascience.com/recommendation-systems-a-review-d4592b6caf4b
+[6] Recommendation Systems: A Review https://towardsdatascience.com/recommendation-systems-a-review-d4592b6caf4b
 
-- [7] [Recommender system using Bayesian personalized ranking](https://towardsdatascience.com/recommender-system-using-bayesian-personalized-ranking-d30e98bba0b9)
+[7] [Recommender system using Bayesian personalized ranking](https://towardsdatascience.com/recommender-system-using-bayesian-personalized-ranking-d30e98bba0b9)
 
-- [8] [Introduction to Recommender Systems in 2019](https://tryolabs.com/blog/introduction-to-recommender-systems/)
+[8] [Introduction to Recommender Systems in 2019](https://tryolabs.com/blog/introduction-to-recommender-systems/)
 
-- [9] [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
+[9] [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)
 
-- [10] https://en.wikipedia.org/wiki/Recommender_system#Mobile_recommender_systems
+[10] https://en.wikipedia.org/wiki/Recommender_system#Mobile_recommender_systems
 
-- [11] Book: 推荐系统实践 项亮
+[11] Book: 推荐系统实践 项亮
 
-- [12] Book: Recommender systems:An introduction, Dietmar Jannach / Markus Zanker / Alexander Felfernig / Gerhard Friedrich, 2013
+[12] Book: Recommender systems:An introduction, Dietmar Jannach / Markus Zanker / Alexander Felfernig / Gerhard Friedrich, 2013
 
-- [14] [Robin Burke Recommender Systems: An Overview](https://www.researchgate.net/publication/220604600_Recommender_Systems_An_Overview)
+[14] [Robin Burke Recommender Systems: An Overview](https://www.researchgate.net/publication/220604600_Recommender_Systems_An_Overview)
 
-- [15] https://github.com/microsoft/recommenders
+[15] https://github.com/microsoft/recommenders
 
-- [16] https://github.com/kevinmcmahon/tagger
+[16] https://github.com/kevinmcmahon/tagger
 
-- [17] https://github.com/timlyo/pyTag
+[17] https://github.com/timlyo/pyTag
 
-- [18] [Hybrid Recommendation Approaches](https://www.math.uci.edu/icamp/courses/math77b/lecture_12w/pdfs/Chapter%2005%20-%20Hybrid%20recommendation%20approaches.pdf)
+[18] [Hybrid Recommendation Approaches](https://www.math.uci.edu/icamp/courses/math77b/lecture_12w/pdfs/Chapter%2005%20-%20Hybrid%20recommendation%20approaches.pdf)
 
-- [19] https://towardsdatascience.com/mixed-recommender-system-mf-matrix-factorization-with-item-similarity-based-cf-collaborative-544ddcedb330
+[19] https://towardsdatascience.com/mixed-recommender-system-mf-matrix-factorization-with-item-similarity-based-cf-collaborative-544ddcedb330
 
-- [20] https://towardsdatascience.com/the-best-forecast-techniques-or-how-to-predict-from-time-series-data-967221811981
+[20] https://towardsdatascience.com/the-best-forecast-techniques-or-how-to-predict-from-time-series-data-967221811981
 
-- [21] [Trend or No Trend: A Novel Nonparametric Method for Classifying Time Series](https://dspace.mit.edu/handle/1721.1/85399)
+[21] [Trend or No Trend: A Novel Nonparametric Method for Classifying Time Series](https://dspace.mit.edu/handle/1721.1/85399)
 
-- [22] https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/als_movielens.ipynb
+[22] https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/als_movielens.ipynb
 
-- [23] https://github.com/microsoft/recommenders/tree/master/examples/03_evaluate
+[23] https://github.com/microsoft/recommenders/tree/master/examples/03_evaluate
 
-- [24] Asela Gunawardana and Guy Shani: A Survey of Accuracy Evaluation Metrics of Recommendation Tasks
+[24] Asela Gunawardana and Guy Shani: A Survey of Accuracy Evaluation Metrics of Recommendation Tasks
 
-- [25] Dimitris Paraschakis et al, "Comparative Evaluation of Top-N Recommenders in e-Commerce: An Industrial Perspective", IEEE ICMLA, 2015, Miami, FL, USA.
+[25] Dimitris Paraschakis et al, "Comparative Evaluation of Top-N Recommenders in e-Commerce: An Industrial Perspective", IEEE ICMLA, 2015, Miami, FL, USA.
 
-- [26] Yehuda Koren and Robert Bell, "Advances in Collaborative Filtering", Recommender Systems Handbook, Springer, 2015.
+[26] Yehuda Koren and Robert Bell, "Advances in Collaborative Filtering", Recommender Systems Handbook, Springer, 2015.
 Chris Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
+
+[27] Errico, James H., et al. “Collaborative recommendation system.” U.S. Patent №8,949,899. 3 Feb. 2015.
+
+[28] Davidson, James, et al. “The YouTube video recommendation system.” Proceedings of the fourth ACM conference on Recommender systems. 2010.
+
+[29] Adomavicius, Gediminas, and Alexander Tuzhilin. “Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions.” IEEE transactions on knowledge and data engineering 17.6 (2005): 734–749.
