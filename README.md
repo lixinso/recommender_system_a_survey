@@ -114,7 +114,7 @@ The negative log-likelihood of the true labels given the prediction of a classif
 
 - [2] [Hulu](https://web.archive.org/web/20170406065247/http://tech.hulu.com/blog/2011/09/19/recommendation-system.html)
 
-- [3] "System Architectures for Personalization and Recommendation" by Netflix Technology Blog https://link.medium.com/PaefDwO9bab
+- [3] Xavier Amatriain and Justin Basilico. [System Architectures for Personalization and Recommendation](https://link.medium.com/PaefDwO9bab) (by Netflix Technology Blog) 
 
 - [4] https://github.com/mandeep147/Amazon-Product-Recommender-System
 
