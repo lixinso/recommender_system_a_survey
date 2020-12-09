@@ -75,6 +75,10 @@ Collabrative Filtering approaches build a model from user's past behavior (items
 
 ## Deep Learning Approach
 
+### Neural Collabrative Filtering 
+
+[[30]](https://towardsdatascience.com/deep-learning-based-recommender-systems-3d120201db7e) [[31]](https://arxiv.org/abs/1708.05031) He et al. proposed a Neural Collbarative Filtering algorithm by replacing the inner product with a neural architecture that can learn an arbitrary function from data. NCF is generic and can express and generalize matrix factorization under its framework. To supercharge NCF modeling with non-linearities, they propose to leverage a multi-layer perceptron to learn the user-item interaction function. 
+
 ## [ALS - Alternating Least Squares](https://github.com/microsoft/recommenders/blob/master/examples/00_quick_start/als_movielens.ipynb)
 
 ## xTreme Deep Factorization Machines (xDeepFM)
@@ -194,3 +198,5 @@ Chris Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
 [29] Adomavicius, Gediminas, and Alexander Tuzhilin. “Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions.” IEEE transactions on knowledge and data engineering 17.6 (2005): 734–749.
 
 [30] James Loy, [Deep Learning based Recommender Systems, A gentle introduction to modern movie recommenders](https://towardsdatascience.com/deep-learning-based-recommender-systems-3d120201db7e]
+
+[[31]](https://arxiv.org/abs/1708.05031) Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, Tat-Seng Chua. Neural Collaborative Filtering. arXiv:1708.05031. 2017
