@@ -7,6 +7,19 @@ Xinsong Li, Dec 2020
 
 This survey provided a comprehensive summary about the recommender system state-of-art knowledge.
 
+# Use Cases
+
+- Movie Recommendation
+i.e., Netflix
+
+- Product Recommendation
+i.e., Amazon
+
+- News Recommendation
+i.e., Google News, Toutiao
+
+- People Recommendation
+i.e., LinkedIn
 
 # Cold Start Problem
 
