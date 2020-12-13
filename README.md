@@ -202,3 +202,9 @@ Chris Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
 [30] James Loy, [Deep Learning based Recommender Systems, A gentle introduction to modern movie recommenders](https://towardsdatascience.com/deep-learning-based-recommender-systems-3d120201db7e]
 
 [[31]](https://arxiv.org/abs/1708.05031) Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, Tat-Seng Chua. Neural Collaborative Filtering. arXiv:1708.05031. 2017
+
+[[32]](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada)(https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada) Introduction to recommender systems, Overview of some major recommendation algorithms.
+
+[[33]](https://dorukkilitcioglu.com/2018/10/09/recommender-filter-serendipity.html) Recommender Systems: From Filter Bubble to Serendipity
+
+
