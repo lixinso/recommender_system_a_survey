@@ -132,6 +132,8 @@ The negative log-likelihood of the true labels given the prediction of a classif
 
 The number of items sold on majority e-commerce sites is extremely large. The most active users will only have rated a small subset of the overall database. Thus, even the most popular items have very few ratings. [[10]](https://en.wikipedia.org/wiki/Recommender_system#Mobile_recommender_systems)
 
+# Churn Prevention
+
 # Industry Practice
 
 ## Last.fm
