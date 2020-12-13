@@ -208,3 +208,6 @@ Chris Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
 [[33]](https://dorukkilitcioglu.com/2018/10/09/recommender-filter-serendipity.html) Recommender Systems: From Filter Bubble to Serendipity
 
 
+[[34]](https://www.sciencedirect.com/science/article/abs/pii/S1568494615001258), REFORE: A recommender system for researchers based on bibliometrics
+
+
