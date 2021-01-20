@@ -210,4 +210,7 @@ Chris Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
 
 [[34]](https://www.sciencedirect.com/science/article/abs/pii/S1568494615001258) REFORE: A recommender system for researchers based on bibliometrics
 
+[[35]](https://msnews.github.io/competition.html) News Recommendation Competition
+
+
 
