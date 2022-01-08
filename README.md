@@ -140,6 +140,10 @@ The number of items sold on majority e-commerce sites is extremely large. The mo
 
 ## Pandora Radio
 
+## LinkedIn
+
+[pymk](https://engineering.linkedin.com/teams/data/artificial-intelligence/people-you-may-know)
+
 # References
 
 [1] http://ijcai13.org/files/tutorial_slides/td3.pdf
