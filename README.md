@@ -454,3 +454,5 @@ Key strategic imperatives:
 [46] Spotify Research. "Generalized User Representations for Multi-task Learning." Spotify Research, 2025.
 
 [47] ByteDance AI Lab. "Keel: Scaling Transformers to 1000+ Layers with Highway-Style Connections." arXiv, January 2026.
+
+[48] Chen, J., et al. "HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models." arXiv:2409.12740 (2024) & "HLLM-Creator: Hierarchical LLM-based Personalized Creative Generation." arXiv:2508.18118 (2025). [GitHub Repo](https://github.com/bytedance/HLLM)
